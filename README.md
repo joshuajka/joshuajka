@@ -4,10 +4,12 @@
 - 🌱 I’m currently learning .NET technologies
 - 📫 How to reach me: joshuajka@gmail.com
 
-![Snake animation](https://github.com/joshuajka/joshuajka/blob/output/github-contribution-grid-snake.svg)
-
 <div> 
   <a href="https://www.linkedin.com/in/joshua-kiko-abbate/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+![Snake animation](https://github.com/joshuajka/joshuajka/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
 
 <div align="center">
   <a href="https://github.com/joshuajka">
